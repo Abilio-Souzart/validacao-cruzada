@@ -1,0 +1,6 @@
+,valor
+melhor CV (não aninhada),0.7108333333333334
+CV aninhada,0.7108333333333334
+CV aninhada (desvio),0.019112241568632865
+teste definitivo,0.7566666666666667
+modelo escolhido,"{'model': 'DecisionTreeClassifier', 'model__max_depth': 2}"

@@ -1,0 +1,4 @@
+,acurácia média,desvio padrão,mín,máx
+Regressão logística,0.6883,0.0167,0.6708,0.7125
+Árvore de decisão (prof. 4),0.6842,0.026,0.6458,0.7125
+KNN (k = 5),0.6275,0.0254,0.6042,0.675
